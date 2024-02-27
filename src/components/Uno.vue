@@ -329,19 +329,19 @@
 #coluno {
   background-color: #050e1d;
   color: #e7e7e7;
-  height: 400px;
+  min-height: 400px;
 }
 
 #coldos {
   background-color: #071739;
   color: #e7e7e7;
-  height: 400px;
+  min-height: 400px;
 }
 
 #coltres {
   background-color: #050e1d;
   color: #e7e7e7;
-  height: 400px;
+  min-height: 400px;
 }
 
 .img {
@@ -464,4 +464,21 @@
     30%
   ); /* Aplica un filtro de brillo para oscurecer la imagen */
 }
+
+
+
+
+/* Ajustes para texto dependiendo del tamaño de la pantalla */
+@media screen and (max-width: 1136px) {
+  .col-sm-3 {
+    margin-top: 0; /* Eliminar el margen superior */
+    margin-left: 20px; /* Añadir un margen izquierdo */
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .col-sm-3 {
+    margin-top: 20px; /* Agregar margen superior */
+    margin-left: 0; /* Eliminar el margen izquierdo */
+  }}
 </style>
