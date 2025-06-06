@@ -20,9 +20,11 @@
             Apasionado por la mejora continua y el aprendizaje autodidacta, con capacidad para trabajar en equipo,
             adaptarse a nuevas tecnologías y aportar soluciones eficientes e innovadoras.
           </p>
-          <a href="/public/MI_HOJA_DE_VIDA.pdf" download class="btn btn-custom" title="Descargar Hoja de Vida">
+          <a href="/MI_HOJA_DE_VIDA.pdf" class="btn btn-custom" title="Descargar Hoja de Vida" target="_blank"
+            rel="noopener noreferrer">
             Descargar CV
           </a>
+
 
         </div>
       </div>
