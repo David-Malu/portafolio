@@ -38,7 +38,7 @@
 
 
       <div class="row my-5">
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
             <img src="/imagenes/pokeApi.png" class="card-img-top" alt="...">
             <div class="card-body">
@@ -53,7 +53,7 @@
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
             <img src="/imagenes/veterinaria.png" class="card-img-top" alt="...">
             <div class="card-body">
@@ -68,7 +68,7 @@
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
             <img src="/imagenes/calculadora.png" class="card-img-top" alt="...">
             <div class="card-body">
@@ -83,7 +83,7 @@
             </div>
           </div>
         </div>
-        <div class="col-6 col-md-3">
+        <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
             <img src="/imagenes/rifaa.png" class="card-img-top" alt="...">
             <div class="card-body">
