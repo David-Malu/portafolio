@@ -9,6 +9,9 @@
         <div class="col-md-8 px-5 py-4">
           <h3 class="name">Jose David Maluendas</h3>
           <h5 class="title">Desarrollador de Software</h5>
+          <hr>
+          <p class="name">Un poco sobre mi :</p>
+
           <p>
             Competente en el desarrollo con tecnologías como Vue.js, HTML, CSS y JavaScript, así como en la creación de
             APIs RESTful con Node.js
@@ -20,6 +23,7 @@
             Apasionado por la mejora continua y el aprendizaje autodidacta, con capacidad para trabajar en equipo,
             adaptarse a nuevas tecnologías y aportar soluciones eficientes e innovadoras.
           </p>
+          <hr>
           <a href="/public/mI_HOJA_DE_VIDA.pdf" class="btn btn-custom" title="Descargar Hoja de Vida" target="_blank"
             rel="noopener noreferrer">
             Descargar CV
@@ -41,14 +45,16 @@
       <div class="row my-5">
         <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
-            <img src="/imagenes/pokeApi.png" class="card-img-top" alt="...">
+            <img src="/imagenes/POKEAPI.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Poke Api </h5>
-              <p class="card-text">sitio para ver tus pokemones favoritos , busacr por categorias y ver cada de detalle
+              <h5 class="card-title">Api Pokemon </h5>
+              <p class="card-text">sitio para ver tus pokemones favoritos , buscar por categorias y ver cada detalle
                 de cada uno , consumiendo la api de pokemones</p>
               <div class="d-grid gap-2">
-                <button class="btn color_boton" type="button">Visitar</button>
-                <a href="https://github.com/David-Malu/pokeapi" class="btn btn-dark" target="_blank">Ver Código</a>
+                <a href="https://pokemonappii.netlify.app/#/" target="_blank" class="btn color_boton">
+                  Visitar
+                </a>
+                <a href="https://github.com/David-Malu/Poke_API" class="btn btn-dark" target="_blank">Ver Código</a>
 
               </div>
             </div>
@@ -56,13 +62,15 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
-            <img src="/imagenes/veterinaria.png" class="card-img-top" alt="...">
+            <img src="/imagenes/vete.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Veterinaria ADMI</h5>
-              <p class="card-text">aca tus maxcotas son caninas , puedes llenar los datos del paciente com osu nombre,
-                que enfermedad o sintomas presenta entre otras</p>
+              <p class="card-text">aca los pacientes son caninos , puedes llenar los datos del paciente como su nombre,
+                que enfermedad o sintomas presenta entre otra info</p>
               <div class="d-grid gap-2">
-                <button class="btn color_boton" type="button">Visitar</button>
+                <a href="https://tiendavterinaria.netlify.app/" target="_blank" class="btn color_boton">
+                  Visitar
+                </a>
                 <a href="https://github.com/David-Malu/veterinaria" class="btn btn-dark" target="_blank">Ver Código</a>
 
               </div>
@@ -71,14 +79,16 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
-            <img src="/imagenes/calculadora.png" class="card-img-top" alt="...">
+            <img src="/imagenes/inventario.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Calculadora</h5>
-              <p class="card-text">aca podemos observa una calculadora para poder realizar cualquier tipo de operacion ,
-                asi como conversiones desde lo mas facil hasta lo mas complicado </p>
+              <h5 class="card-title">Inventario</h5>
+              <p class="card-text">podemos observar un inventario para tener control de todos los productos existentes y
+                asi poder tener todo el control de todo lo reacionado con los produtos </p>
               <div class="d-grid gap-2">
-                <button class="btn color_boton" type="button">Visitar</button>
-                <a href="https://github.com/David-Malu/cal" class="btn btn-dark" target="_blank">Ver Código</a>
+                <a href="https://inventariool.netlify.app/" target="_blank" class="btn color_boton">
+                  Visitar
+                </a>
+                <a href="https://github.com/David-Malu/inventario" class="btn btn-dark" target="_blank">Ver Código</a>
 
               </div>
             </div>
@@ -86,14 +96,16 @@
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
-            <img src="/imagenes/rifaa.png" class="card-img-top" alt="...">
+            <img src="/imagenes/rifasr.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Pag Rifas</h5>
+              <h5 class="card-title">Sitio Para Rifas</h5>
               <p class="card-text">el papel y el lapiz no van mas , aca puedes hacer tus rifas y anotar puestos pero de
                 manera mas actualizada sin necesidad de complicarte por anotar </p>
               <div class="d-grid gap-2">
-                <button class="btn color_boton " type="button">Visitar</button>
-                <a href="https://github.com/David-Malu/Rifa" class="btn btn-dark" target="_blank">Ver Código</a>
+                <a href="https://paginaderifas.netlify.app/" target="_blank" class="btn color_boton">
+                  Visitar
+                </a>
+                <a href="https://github.com/David-Malu/paginarifas" class="btn btn-dark" target="_blank">Ver Código</a>
               </div>
             </div>
           </div>
