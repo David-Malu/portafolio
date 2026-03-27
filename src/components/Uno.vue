@@ -24,8 +24,7 @@
             adaptarse a nuevas tecnologías y aportar soluciones eficientes e innovadoras.
           </p>
           <hr>
-          <a href="/public/Mi_Hoja_De_Vida.pdf" class="btn btn-custom" title="Descargar Hoja de Vida" target="_blank"
-            rel="noopener noreferrer">
+          <a href="/hoja-de-vida.pdf" class="btn btn-custom" download>
             Descargar CV
           </a>
 
