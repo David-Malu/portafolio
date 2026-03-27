@@ -45,7 +45,7 @@
       <div class="row my-5">
         <div class="col-12 col-md-6 col-lg-3 mb-4">
           <div class="card">
-            <img src="/imagenes/POKEAPI.png" class="card-img-top" alt="...">
+            <img src="/imagenes/poke.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Api Pokemon </h5>
               <p class="card-text">sitio para ver tus pokemones favoritos , buscar por categorias y ver cada detalle
